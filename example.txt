@@ -1,0 +1,1 @@
+INSERT INTO `student` (`name`, `surname`, `email`, `id`) VALUES ('Monique', 'Moran', 'MandM@gmx.at', NULL);
